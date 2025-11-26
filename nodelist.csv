@@ -1,0 +1,29 @@
+id,name,party,sector,country,type
+500,Folge 500,,,,3
+uvl,Ursula von der Leyen,CDU,Politik,Deutschland,1
+lk,Lars Klingbeil,SPD,Politik,Deutschland,1
+nr,Norbert Röttgen,CDU,Politik,Deutschland,1
+sw,Sahra Wagenknecht,Linke,Politik,Deutschland,1
+cs,Constanze Stelzenmüller,,Journalismus,Deutschland,1
+CDU,CDU,CDU,,,2
+SPD,SPD,SPD,,,2
+Linke,Linke,Linke,,,2
+501,Folge 501,,,,3
+cl,Christian Lindner,FDP,Politik,Deutschland,1
+ks,Karl Schlögel,,Geschichte,Deutschland,1
+lm,Ljudmyla Melnyk,,Wissenschaft,Deutschland,1
+kd,Kristina Dunz,,Journalismus,Deutschland,1
+el,Eglis Levits,,Politik,Lettland,1
+FDP,FDP,FDP,,,2
+502,Folge 502,,,,3
+ab,Annalena Baerbock,Grüne,Politik,Deutschland,1
+ft,Frans Timmermans,,Politik,Niederlande,1
+am,Andrij Melnyk,,Politik,Ukraine,1
+agl,Alexander Graf Lambsdorff,FDP,Politik,Deutschland,1
+er,Egon Ramms,,Bundeswehr,Deutschland,1
+Grüne,Grüne,Grüne,,,2
+503,Folge 503,,,,3
+rh,Robert Habeck,Grüne,Politik,Deutschland,1
+cm,Claudia Major,,Wissenschaft,Deutschland,1
+kp,Katja Petrowskaja,,Journalismus,Deutschland,1
+rk,Roderich Kiesewetter,CDU,Politik,Deutschland,1
